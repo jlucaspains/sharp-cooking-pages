@@ -6,12 +6,12 @@ ios_app_id                                : 1522623942                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : http://sharpcooking.net                   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Sharp Cooking                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : 0.99                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : $0.99                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Sharply focused on cooking.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -35,28 +35,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple
-    description                           : Designed to focus on cooking. No meal plans, no shopping list, all the distractions were removed to help you focus.
+    description                           : Designed to focus on cooking. No meal plans, no shopping lists, all the distractions were removed to help you cook.
     fontawesome_icon_name                 : magic
     
   - title                                 : iOS
-    description                           : Use it in your iPhone or IPod
+    description                           : Optimized for iPhones and iPods
     fontawesome_icon_name                 : mobile
 
   - title                                 : Android
-    description                           : Top Android device support.
-    fontawesome_icon_name                 : play-circle
+    description                           : Optimized for Android devices
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Multiplier
-    description                           : 
-    fontawesome_icon_name                 : sync
+    description                           : Want to make 2 loafs of bread instead of 1? No problem!
+    fontawesome_icon_name                 : times
 
   - title                                 : Time Tracking
-    description                           : 
-    fontawesome_icon_name                 : adjust
+    description                           : Know exactly when you will need to do preparation or cooking.
+    fontawesome_icon_name                 : clock
   
   - title                                 : 100% Offline
-    description                           : Your data remain with you, 
-    fontawesome_icon_name                 : star
+    description                           : Nobody will see your recipes and personal data unless you share it yourself.
+    fontawesome_icon_name                 : signal
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
