@@ -35,16 +35,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple
-    description                           : Designed to focus on cooking. No meal plans, no shopping lists, all the distractions were removed to help you cook.
+    description                           : Simply focused on cooking. No meal plans, no shopping lists, no distractions.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iOS
-    description                           : Optimized for iPhones and iPods
+  - title                                 : Multi-platform
+    description                           : Optimized for iOS (iPhones and iPods) and Android devices.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Android
-    description                           : Optimized for Android devices
-    fontawesome_icon_name                 : mobile
+  - title                                 : ad-free
+    description                           : Because nobody likes to see ads instead of cooking.
+    fontawesome_icon_name                 : virus-slash
 
   - title                                 : Multiplier
     description                           : Want to make 2 loafs of bread instead of 1? No problem!
@@ -54,9 +54,9 @@ features                                  :
     description                           : Know exactly when you will need to do preparation or cooking.
     fontawesome_icon_name                 : clock
   
-  - title                                 : 100% Offline
+  - title                                 : Privacy
     description                           : Nobody will see your recipes and personal data unless you share it yourself.
-    fontawesome_icon_name                 : signal
+    fontawesome_icon_name                 : eye-slash
 
   - title                                 : #Smart App Banner
     description                           : #Display a smart app banner on iOS devices.
