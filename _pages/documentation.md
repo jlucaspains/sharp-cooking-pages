@@ -35,7 +35,7 @@ To start cooking later but know exactly when it will be done later, use the star
 
 ## Settings
 
-![Android settings](/assets/images/android_settings.gif){:class="doc-img"}
+![Android settings](/assets/images/android_settings.png){:class="doc-img"}
 
 ### Creating a backup to keep your recipes safe
 Sharp Cooking was designed for privacy, therefore, all of your data is only available in your device. In the interest of ensuring you remain in control of your data, Sharp Cooking does not automatically backs up your recipes. Instead, you need to use the Backup feature in the Settings page, it will trigger an iOS or Android file save and allow you to select your favorite file store provider such as ICloud Drive, Dropbox, and Google Drive.
