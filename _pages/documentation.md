@@ -21,12 +21,12 @@ Creating or adjusting a recipe is as simple as it gets. Sharp Cooking's simplici
 ## View a recipe
 Sharp Cooking displays recipes using a timeline style which helps you know exactly when to start or continue cooking your recipe and breaks it down nicely in easy to consume bits. 
 
-image
+![Android view recipe](/assets/images/android_displayrecipe.png){:class="doc-img"}
 
 ### The multiplier feature
-Use the multiplier feature when you want to cook more or less of a recipe. For instance, if you want half the servings, use the multiplier feature with 0.5. If you want double servings, use 2.
+Use the multiplier feature when you want to cook more or less of a recipe. For instance, if you want half the servings, use the multiplier 0.5. If you want double the servings, use 2.
 
-image
+![Android multiplier feature](/assets/images/android_multiplier.gif){:class="doc-img"}
 
 ### Cooking start time feature
 To start cooking later but know exactly when it will be done later, use the start time feature. Just pick when you want to start cooking and Sharp Cooking will calculate all the steps. You can further adjust the interval between steps without time in the Settings page.
