@@ -16,7 +16,7 @@ Creating or adjusting a recipe is as simple as it gets. Sharp Cooking's simplici
 4. Separate instructions by a new line. This is important so that Sharp Cooking will show each step in the timeline correctly
 5. When denoting time in instructions use the following syntax where x is a number: x min; x minute; x minutes; x hour; x hours; x day; x days
 
-![Android add new recipe](/assets/images/android_newrecipe.png =400x)
+![Android add new recipe](/assets/images/android_newrecipe.png){:class="doc-img"}
 
 ## View a recipe
 Sharp Cooking displays recipes using a timeline style which helps you know exactly when to start or continue cooking your recipe and breaks it down nicely in easy to consume bits. 
