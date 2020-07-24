@@ -31,10 +31,25 @@ Use the multiplier feature when you want to cook more or less of a recipe. For i
 ### Cooking start time feature
 To start cooking later but know exactly when it will be done later, use the start time feature. Just pick when you want to start cooking and Sharp Cooking will calculate all the steps. You can further adjust the interval between steps without time in the Settings page.
 
-image
+![Android start time](/assets/images/android_starttime.gif){:class="doc-img"}
 
-## Keeping your recipe book safe
-Sharp Cooking was designed for privacy, therefore, all of your data is only available in your device. In the interest of ensuring you remain in control of your data, Sharp Cooking does not automatically backs up your recipes. You can use the Backup feature in the Settings page, it will trigger a iOS or Android file save and allow you to select your favorite file store provider such as ICloud Drive, Dropbox, and Google Drive.
+## Settings
+
+![Android settings](/assets/images/android_settings.gif){:class="doc-img"}
+
+### Creating a backup to keep your recipes safe
+Sharp Cooking was designed for privacy, therefore, all of your data is only available in your device. In the interest of ensuring you remain in control of your data, Sharp Cooking does not automatically backs up your recipes. Instead, you need to use the Backup feature in the Settings page, it will trigger an iOS or Android file save and allow you to select your favorite file store provider such as ICloud Drive, Dropbox, and Google Drive.
+
+### Restoring a backup
+> Caution: if successful, the restore will replace all existing recipes with the ones in the backup file.
+
+In case you made any mistake or something is wrong with your recipes, you can use the Restore feature in Settings page to restore your last backup. A valid backup is a zip file created by Sharp Cooking app. When you choose this option, it will ask you to choose which file provider and file to use. That's it. That's it. Your full recipe book will be restored. 
+
+### Choosing between decimal or fractions
+Some people like decimals like 1.5 and other people prefer fractions like 1 and 1/2. Regardless of preference, Sharp Cooking can show your recipe ingredient quantities just right. Just tap this feature in Settings page to toggle between the two modes.
+
+### Setting the default time between steps
+Each step in the cooking process takes some time, from gathering ingredients, to prep and actual time in an oven, flame, fridge... You get the idea. The primary difference between Sharp Cooking and other apps is its timeline based display. To that end, Sharp Cooking assign 5 minutes by default between steps where time information (e.g. "bake for 30 min") is not given. You can adjust this time in the Settings page. Note that any value provided is treated as minutes.
 
 # FAQ
 ## Can I import recipes from websites?
