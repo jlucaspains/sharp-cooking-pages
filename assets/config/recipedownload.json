@@ -1,0 +1,8 @@
+[{
+    "hostname": "www.allrecipes.com",
+    "titleXPath": ["//h1"],
+    "imageXPath": ["//div[@class=\"image-container\"]//img", "//div[@class=\"hero-photo__wrap\"]/a/img[@class=\"rec-photo\"]"],
+    "imageAttribute": "src",
+    "ingredientsXPath": ["//fieldset[@class=\"ingredients-section__fieldset\"]/ul/li", "//ul/li[@class=\"checkList__line\"]/label/span[@itemprop=\"recipeIngredient\"]"],
+    "preparationXPath": ["//fieldset[@class=\"instructions-section__fieldset\"]/ul/li/div[@class=\"section-body\"]", "//ol[@itemprop=\"recipeInstructions\"]/li[@class=\"step\"]"]
+}]
