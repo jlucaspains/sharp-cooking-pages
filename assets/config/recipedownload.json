@@ -5,10 +5,9 @@
             "//h1"
         ],
         "imageXPath": [
-            "//div[@class=\"image-container\"]//img",
-            "//div[@class=\"hero-photo__wrap\"]/a/img[@class=\"rec-photo\"]"
+            "//meta[@property=\"og:image\"]"
         ],
-        "imageAttribute": "src",
+        "imageAttribute": "content",
         "ingredientsXPath": [
             "//fieldset[@class=\"ingredients-section__fieldset\"]/ul/li",
             "//ul/li[@class=\"checkList__line\"]/label/span[@itemprop=\"recipeIngredient\"]"
@@ -24,9 +23,9 @@
             "//h1"
         ],
         "imageXPath": [
-            "//div[@class=\"recipe-lead\"]//img[@class=\"m-MediaBlock__a-Image a-Image\"]"
+            "//meta[@property=\"og:image\"]"
         ],
-        "imageAttribute": "src",
+        "imageAttribute": "content",
         "ingredientsXPath": [
             "//section[@class=\"o-Ingredients\"]//p[@class=\"o-Ingredients__a-Ingredient\"]"
         ],
@@ -40,9 +39,9 @@
             "//div[@class=\"recipe-title\"]/h1"
         ],
         "imageXPath": [
-            "//div[@class=\"recipe-media\"]//ul/li/picture/img"
+            "//meta[@property=\"og:image\"]"
         ],
-        "imageAttribute": "src",
+        "imageAttribute": "content",
         "ingredientsXPath": [
             "//div[@id=\"info-user\"]//ul/li/span[@class=\"p-ingredient\"]"
         ],
