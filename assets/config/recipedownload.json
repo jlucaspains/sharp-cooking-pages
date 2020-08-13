@@ -1,8 +1,69 @@
-[{
-    "hostname": "www.allrecipes.com",
-    "titleXPath": ["//h1"],
-    "imageXPath": ["//div[@class=\"image-container\"]//img", "//div[@class=\"hero-photo__wrap\"]/a/img[@class=\"rec-photo\"]"],
-    "imageAttribute": "src",
-    "ingredientsXPath": ["//fieldset[@class=\"ingredients-section__fieldset\"]/ul/li", "//ul/li[@class=\"checkList__line\"]/label/span[@itemprop=\"recipeIngredient\"]"],
-    "preparationXPath": ["//fieldset[@class=\"instructions-section__fieldset\"]/ul/li/div[@class=\"section-body\"]", "//ol[@itemprop=\"recipeInstructions\"]/li[@class=\"step\"]"]
-}]
+[
+    {
+        "hostname": "www.allrecipes.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//div[@class=\"image-container\"]//img",
+            "//div[@class=\"hero-photo__wrap\"]/a/img[@class=\"rec-photo\"]"
+        ],
+        "imageAttribute": "src",
+        "ingredientsXPath": [
+            "//fieldset[@class=\"ingredients-section__fieldset\"]/ul/li",
+            "//ul/li[@class=\"checkList__line\"]/label/span[@itemprop=\"recipeIngredient\"]"
+        ],
+        "preparationXPath": [
+            "//fieldset[@class=\"instructions-section__fieldset\"]/ul/li/div[@class=\"section-body\"]",
+            "//ol[@itemprop=\"recipeInstructions\"]/li[@class=\"step\"]"
+        ]
+    },
+    {
+        "hostname": "www.foodnetwork.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//div[@class=\"recipe-lead\"]//img[@class=\"m-MediaBlock__a-Image a-Image\"]"
+        ],
+        "imageAttribute": "src",
+        "ingredientsXPath": [
+            "//section[@class=\"o-Ingredients\"]//p[@class=\"o-Ingredients__a-Ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//ol/li[@class=\"o-Method__m-Step\"]"
+        ]
+    },
+    {
+        "hostname": "www.tudogostoso.com.br",
+        "titleXPath": [
+            "//div[@class=\"recipe-title\"]/h1"
+        ],
+        "imageXPath": [
+            "//div[@class=\"recipe-media\"]//ul/li/picture/img"
+        ],
+        "imageAttribute": "src",
+        "ingredientsXPath": [
+            "//div[@id=\"info-user\"]//ul/li/span[@class=\"p-ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"instructions e-instructions\"]/ol/li/span"
+        ]
+    },
+    {
+        "hostname": "www.panelinha.com.br",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//recipe//ul/li"
+        ],
+        "preparationXPath": [
+            "//recipe//ol/li"
+        ]
+    }
+]
