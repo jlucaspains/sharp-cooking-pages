@@ -1,6 +1,7 @@
 [
     {
         "version": "1.0",
+        "latest": false,
         "new": [
             "Add and edit recipes with ingredients, instructions, notes, and pictures.",
             "Timeline based recipe display with the ability to adjust when to start cooking.",
@@ -14,6 +15,7 @@
     },
     {
         "version": "1.0.1",
+        "latest": false,
         "new": [
             "Fixed issue where backup would not work across different platforms",
             "Fixed issue where backup files were incorrectly generated."
@@ -24,6 +26,7 @@
     },
     {
         "version": "1.1",
+        "latest": true,
         "new": [
             "Import recipes from allrecipes.com",
             "Import recipes from foodnetwork.com",
