@@ -8,7 +8,7 @@ include_in_header: true
 The Sharp Cooking team makes frequent updates to keep up with the latest iOS and Android capabilities and enhance your experience. See below for version release notes.
 
 {% for item in site.data.releasenotes_enUS reversed %}
-## **Version {{item.version}} {% if item.latest %}(Latest){% endif %}**
+## Version {{item.version}} {% if item.latest %}(Latest){% endif %}
 
 ### What's New
 {% for newItem in item.new %}
