@@ -25,8 +25,12 @@
     {
         "version": "1.1",
         "new": [
-            "Import recipes from websites. Supported sites are: allrecipes.com, foodnetwork.com, tudogostoso.com.br, panelinha.com.br, e receitasnestle.com.br.",
-            "Introduced release notes inside app for better notification after updates."
+            "Import recipes from allrecipes.com",
+            "Import recipes from foodnetwork.com",
+            "Import recipes from tudogostoso.com.br",
+            "Import recipes from panelinha.com.br",
+            "Import recipes from receitasnestle.com.br",
+            "Release notes in About section"
         ],
         "knownIssues": [
             "None"

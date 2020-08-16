@@ -1,0 +1,40 @@
+[
+    {
+        "version": "1.0",
+        "new": [
+            "Adicione e edite receitas com ingredientes, instruções, notas e fotos.",
+            "Exibição de receita baseada em linha do tempo com a capacidade de ajustar quando começar a cozinhar.",
+            "Faça mais ou menos porções de uma receita usando o recurso Multiplicador.",
+            "Compartilhe receitas usando sua rede social favorita, SMS ou e-mail.",
+            "100% offline com opções de backup e restauração para manter suas receitas privadas."
+        ],
+        "knownIssues": [
+            "Restaurar backups criados em uma plataforma diferente causa erros."
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "new": [
+            "Corrigido o problema em que o backup não funcionava em plataformas diferentes",
+            "Corrigido o problema em que os arquivos de backup eram gerados incorretamente."
+        ],
+        "knownIssues": [
+            "Nenhum"
+        ]
+    },
+    {
+        "version": "1.1",
+        "new": [
+            "Importar receitas de allrecipes.com",
+            "Importar receitas de foodnetwork.com",
+            "Importar receitas de tudogostoso.com.br",
+            "Importar receitas de panelinha.com.br",
+            "Importar receitas de receitasnestle.com.br",
+            "Notas de lançamento na seção Sobre"
+        ],
+        "knownIssues": [
+            "Nenhum"
+        ]
+    }
+    
+]
