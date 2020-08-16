@@ -64,5 +64,21 @@
         "preparationXPath": [
             "//recipe//ol/li"
         ]
+    },
+    {
+        "hostname": "www.receitasnestle.com.br",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//dl/dd/div[@itemprop=\"ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//dl[@itemprop=\"instructions\"]/dd"
+        ]
     }
 ]

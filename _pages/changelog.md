@@ -7,7 +7,17 @@ include_in_header: true
 # Changelog
 The Sharp Cooking team makes frequent updates to keep up with the latest iOS and Android capabilities and enhance your experience. See below for version release notes.
 
-## **Version 1.0** (Latest)
+## **Version 1.0.1** (Latest)
+This is the first version of Sharp Cooking. The goal os this first version is to provide a solid but simple recipe creation and use experience. More advanced features are coming up soon!
+
+### What's New
+- Fixed issue where backup would not work across different platforms
+- Fixed issue where backup files were incorrectly generated. 
+
+### Known issues
+- None
+
+## **Version 1.0**
 This is the first version of Sharp Cooking. The goal os this first version is to provide a solid but simple recipe creation and use experience. More advanced features are coming up soon!
 
 ### What's New
