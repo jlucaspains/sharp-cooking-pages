@@ -1,0 +1,36 @@
+[
+    {
+        "version": "1.0",
+        "new": [
+            "Add and edit recipes with ingredients, instructions, notes, and pictures.",
+            "Timeline based recipe display with the ability to adjust when to start cooking.",
+            "Make more or less portions of a recipe by using the Multiplier feature.",
+            "Share recipes using your favorite social network, SMS, or email.",
+            "100% offline with backup and restore options to keep your recipes private."
+        ],
+        "knownIssues": [
+            "Restoring backups created on a different platform does not work."
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "new": [
+            "Fixed issue where backup would not work across different platforms",
+            "Fixed issue where backup files were incorrectly generated."
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.1",
+        "new": [
+            "Import recipes from websites. Supported sites are: allrecipes.com, foodnetwork.com, tudogostoso.com.br, panelinha.com.br, e receitasnestle.com.br.",
+            "Introduced release notes inside app for better notification after updates."
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    }
+    
+]
