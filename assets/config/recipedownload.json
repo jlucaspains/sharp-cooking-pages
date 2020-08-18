@@ -71,7 +71,7 @@
             "//h1"
         ],
         "imageXPath": [
-            "//meta[@property=\"og:image\"]"
+            "//meta[@property=\"og:image:secure_url\"]"
         ],
         "imageAttribute": "content",
         "ingredientsXPath": [
