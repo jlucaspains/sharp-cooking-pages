@@ -51,6 +51,13 @@ Some people like decimals like 1.5 and other people prefer fractions like 1 and 
 ### Setting the default time between steps
 Each step in the cooking process takes some time, from gathering ingredients, to prep and actual time in an oven, flame, fridge... You get the idea. The primary difference between Sharp Cooking and other apps is its timeline based display. To that end, Sharp Cooking assign 5 minutes by default between steps where time information (e.g. "bake for 30 min") is not given. You can adjust this time in the Settings page. Note that any value provided is treated as minutes.
 
+### Importing recipes from the internet
+In version 1.1 we introduced an option where you can import recipes from supported websites. As of now, you can import from [allrecipes.com](https://www.allrecipes.com/), [foodnetwork.com](https://www.foodnetwork.com/), [tudogostoso.com.br](https://www.tudogostoso.com.br/), [panelinha.com.br](https://www.panelinha.com.br/), and [receitasnestle.com.br](https://www.receitasnestle.com.br/). Don't see your favorite website on this list? Email [Our Support Team](mailto:lpains.wp@gmail.com) to request support for it.
+
+The feature is very simple, you provide the URL of a recipe from any of the support websites and sharp-cooking will do the rest. It is smart enough to break down the ingredients and steps for you so all you have to do is save.
+
+![Android start time](/assets/images/android_import.gif){:class="doc-img"}
+
 # FAQ
 ## Can I import recipes from websites?
 Not yet. This is a feature planned for the near future.
