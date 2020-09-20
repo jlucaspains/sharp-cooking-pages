@@ -60,7 +60,7 @@ The feature is very simple, you provide the URL of a recipe from any of the supp
 
 # FAQ
 ## Can I import recipes from websites?
-Not yet. This is a feature planned for the near future.
+Yes! This feature was introduced in version 1.1.
 
 ## Can I import recipes from other apps?
 No. This is a feature being considered for a future release. 

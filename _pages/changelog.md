@@ -24,7 +24,10 @@ The Sharp Cooking team makes frequent updates to keep up with the latest iOS and
 ## **Roadmap**
 > Below features are currently being evaluated or under development. The development team cannot guarantee that all features listed here will be delivered in the next version.
 
-- (In progress) Import recipes from websites
+- (In Progress) show default recipes on first install
+- (Not Started) save last multiplier used for each recipe
+- (Not Started) sorting options
+- (Not Started) share recipe with image
 - (Design) Unit of measure conversions
   - From Imperial to metric system and vice-versa
 - (Not Started) Alternative ingredients
