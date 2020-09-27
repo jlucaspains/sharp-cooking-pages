@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Xamarin Forms",
+        "author": "Microsoft",
+        "shortDescription": "An open-source framework for building iOS, Android, and Windows apps",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://xamarin.com/forms"
+    },
+    {
+        "title": "Xamarin Essentials",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "Xamarin.Plugin.FilePicker",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "ACR User Dialogs",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "HTML Agility Pack",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "Fody",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "sqlite-net-pcl",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "Xam.Plugin.Media",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "XamEffects",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "Newtonsoft.Json",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "Microsoft.AppCenter",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    },
+    {
+        "title": "MultilingualAppToolkit",
+        "shortDescription": "",
+        "license": "",
+        "projectLink": ""
+    }
+]
