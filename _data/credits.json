@@ -1,75 +1,62 @@
 [
     {
         "title": "Xamarin Forms",
-        "author": "Microsoft",
         "shortDescription": "An open-source framework for building iOS, Android, and Windows apps",
         "license": "The MIT License (MIT)",
         "projectLink": "https://xamarin.com/forms"
     },
     {
         "title": "Xamarin Essentials",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "Essential cross-platform APIs for your mobile apps.",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://docs.microsoft.com/en-us/xamarin/essentials/"
     },
     {
         "title": "Xamarin.Plugin.FilePicker",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "FilePicker Plugin for Xamarin and Windows",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows"
     },
     {
         "title": "ACR User Dialogs",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "A cross platform library that allows you to call for standard user dialogs from a core .net standard library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/aritchie/userdialogs"
     },
     {
         "title": "HTML Agility Pack",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "It is a .NET code library that allows you to parse \"out of the web\" HTML files.",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://html-agility-pack.net/"
     },
     {
-        "title": "Fody",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "title": "PropertyChanged.Fody",
+        "shortDescription": "Injects INotifyPropertyChanged code into properties at compile time",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/Fody/PropertyChanged"
     },
     {
-        "title": "sqlite-net-pcl",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "title": "SQLite-net",
+        "shortDescription": "Simple, powerful, cross-platform SQLite client and ORM for .NET",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/praeclarum/sqlite-net"
     },
     {
-        "title": "Xam.Plugin.Media",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "title": "Media Plugin for Xamarin and Windows",
+        "shortDescription": "Take & Pick Photos and Video Plugin for Xamarin and Windows",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/jamesmontemagno/MediaPlugin"
     },
     {
         "title": "XamEffects",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "UI effects for Xamarin.Forms",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://github.com/mrxten/XamEffects"
     },
     {
         "title": "Newtonsoft.Json",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
-    },
-    {
-        "title": "Microsoft.AppCenter",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
-    },
-    {
-        "title": "MultilingualAppToolkit",
-        "shortDescription": "",
-        "license": "",
-        "projectLink": ""
+        "shortDescription": "Json.NET is a popular high-performance JSON framework for .NET",
+        "license": "The MIT License (MIT)",
+        "projectLink": "https://www.newtonsoft.com/json"
     }
 ]
