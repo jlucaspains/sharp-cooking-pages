@@ -80,5 +80,21 @@
         "preparationXPath": [
             "//dl[@itemprop=\"instructions\"]/dd"
         ]
+    },
+    {
+        "hostname": "foolproofliving.com",
+        "titleXPath": [
+            "//div[@class=\"wprm-recipe wprm-recipe-template-fpl-recipe\"]/h2"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//li[@class=\"wprm-recipe-ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//li[@class=\"wprm-recipe-instruction\"]"
+        ]
     }
 ]
