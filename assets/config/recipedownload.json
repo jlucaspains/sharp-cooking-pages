@@ -96,5 +96,21 @@
         "preparationXPath": [
             "//li[@class=\"wprm-recipe-instruction\"]"
         ]
+    },
+    {
+        "hostname": "www.saboresajinomoto.com.br",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//div[@id=\"content\"]/div/div[\"@class=ingredients\"]/ul/li"
+        ],
+        "preparationXPath": [
+            "//div[@id=\"content\"]/div/div[\"@class=steps\"]/ol/li"
+        ]
     }
 ]
