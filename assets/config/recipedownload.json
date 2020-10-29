@@ -123,10 +123,10 @@
         ],
         "imageAttribute": "content",
         "ingredientsXPath": [
-            "//div[@class=\"main-content\"]//div[@data-block-type=\"2\"][1]//p"
+            "(//div[@class=\"main-content\"]//div[@data-block-type=\"2\"])[3]//p"
         ],
         "preparationXPath": [
-            "//div[@class=\"main-content\"]//div[@data-block-type=\"2\"][2]//p"
+            "(//div[@class=\"main-content\"]//div[@data-block-type=\"2\"])[4]//p"
         ]
     }
 ]
