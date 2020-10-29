@@ -60,6 +60,7 @@ In version 1.1 we introduced an option where you can import recipes from support
 * [panelinha.com.br](https://www.panelinha.com.br/)
 * [receitasnestle.com.br](https://www.receitasnestle.com.br/)
 * [saboresajinomoto.com.br](https://www.saboresajinomoto.com.br/)
+* [www.saltfatacidheat.com](https://www.saltfatacidheat.com/)
 
 Don't see your favorite website on this list? Email [Our Support Team](mailto:lpains.wp@gmail.com) to request support for it.
 

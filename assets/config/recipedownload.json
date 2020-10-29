@@ -112,5 +112,21 @@
         "preparationXPath": [
             "//div[@id=\"content\"]/div/div[\"@class=steps\"]/ol/li"
         ]
+    },
+    {
+        "hostname": "www.saltfatacidheat.com",
+        "titleXPath": [
+            "//div[@class=\"main-content\"]//h3"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//div[@class=\"main-content\"]//div[@data-block-type=\"2\"][1]//p"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"main-content\"]//div[@data-block-type=\"2\"][2]//p"
+        ]
     }
 ]
