@@ -41,10 +41,23 @@
     },
     {
         "version": "1.2",
-        "latest": true,
+        "latest": false,
         "new": [
             "Fix to prevent recipe images taken using camera being turned sideways",
             "Improvements for multiplier use with fractions"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.3",
+        "latest": true,
+        "new": [
+            "A default recipe is added on a new installation",
+            "Multiplier is saved for each recipe",
+            "Added Open Source credits page",
+            "Sharp Cooking will try to download images as https when site publishes them as http"
         ],
         "knownIssues": [
             "None"
