@@ -128,5 +128,21 @@
         "preparationXPath": [
             "(//div[@class=\"main-content\"]//div[@data-block-type=\"2\"])[4]//p"
         ]
+    },
+    {
+        "hostname": "www.seriouseats.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//li[@class=\"ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"recipe-procedure-text\"]/p"
+        ]
     }
 ]
