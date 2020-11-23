@@ -144,5 +144,37 @@
         "preparationXPath": [
             "//div[@class=\"recipe-procedure-text\"]/p"
         ]
+    },
+    {
+        "hostname": "www.delicious.com.au",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//ul[@class=\"ingredient\"]/li"
+        ],
+        "preparationXPath": [
+            "//ul[@class=\"method\"]/li/div[2]"
+        ]
+    },
+    {
+        "hostname": "cafedelites.com",
+        "titleXPath": [
+            "//h1[@class=\"entry-title\"]"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//li[@class=\"wprm-recipe-ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"wprm-recipe-instruction-text\"]"
+        ]
     }
 ]

@@ -4,7 +4,7 @@ title: Documentation
 include_in_header: true
 ---
 
-# Documentation (work in progress)
+# Documentation
 Sharp Cooking is your personal cooking app. It is available for both Android and iOS devices (iPhone and iPod).
 
 ## Create or update a recipe
@@ -62,6 +62,8 @@ In version 1.1 we introduced an option where you can import recipes from support
 * [saboresajinomoto.com.br](https://www.saboresajinomoto.com.br/)
 * [www.saltfatacidheat.com](https://www.saltfatacidheat.com/)
 * [www.seriouseats.com](https://www.seriouseats.com/)
+* [cafedelites.com](https://cafedelites.com/)
+* [www.delicious.com.au](https://www.delicious.com.au/)
 
 Don't see your favorite website on this list? Email [Our Support Team](mailto:lpains.wp@gmail.com) to request support for it.
 
@@ -75,6 +77,9 @@ Yes! This feature was introduced in version 1.1.
 
 ## Can I import recipes from other apps?
 No. This is a feature being considered for a future release. 
+
+## Can I share recipes with image to another Sharp Cooking user?
+Not yet. This feature will be introduced in version 1.4 which should be released soon.
 
 ## What languages is Sharp Cooking translated into?
 At the moment, English and Brazilian Portuguese. Expected translations for the near future are: Spanish, French, and Italian.
