@@ -24,13 +24,13 @@ The Sharp Cooking team makes frequent updates to keep up with the latest iOS and
 ## **Roadmap**
 > Below features are currently being evaluated or under development. The development team cannot guarantee that all features listed here will be delivered in the next version.
 
-- (In Progress) show default recipes on first install
-- (Not Started) save last multiplier used for each recipe
+- (Released in v1.3) show default recipes on first install
+- (Released in v1.3) save last multiplier used for each recipe
+- (In Progress for v1.4) share recipe with image
 - (Not Started) sorting options
-- (Not Started) share recipe with image
-- (Design) Unit of measure conversions
+- (Not Started) Picture gallery in a recipe
+- (Not Started) Automatic storage management of app images
+- (Not Started) Unit of measure conversions
   - From Imperial to metric system and vice-versa
 - (Not Started) Alternative ingredients
   - No butter? You can use x amount of olive oil as a replacement
-- (Not Started) Picture gallery in a recipe
-- (Not Started) Automatic storage management of app images
