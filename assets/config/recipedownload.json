@@ -192,5 +192,21 @@
         "preparationXPath": [
             "//ul/li/div[@class=\"recipe-method-step-content\"]"
         ]
+    },
+    {
+        "hostname": "receitasdeminuto.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//div[@class=\"first-image-wrapper\"]/img"
+        ],
+        "imageAttribute": "src",
+        "ingredientsXPath": [
+            "//ul/li[@class=\"ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//ol/li[@class=\"instruction\"]"
+        ]
     }
 ]
