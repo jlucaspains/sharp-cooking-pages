@@ -52,12 +52,22 @@
     },
     {
         "version": "1.3",
-        "latest": true,
+        "latest": false,
         "new": [
             "A default recipe is added on a new installation",
             "Multiplier is saved for each recipe",
             "Added Open Source credits page",
             "Sharp Cooking will try to download images as https when site publishes them as http"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.4",
+        "latest": true,
+        "new": [
+            "Share and receive whole recipes from/to the app"
         ],
         "knownIssues": [
             "None"

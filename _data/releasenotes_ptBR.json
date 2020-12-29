@@ -52,12 +52,22 @@
     },
     {
         "version": "1.3",
-        "latest": true,
+        "latest": false,
         "new": [
             "Uma receita padrão é adicionada em uma nova instalação",
             "O multiplicador é salvo para cada receita",
             "Adicionada página de créditos de código Open Source",
             "O Cozinha Afiada tentará baixar as imagens como https quando o site as publicar como http"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.4",
+        "latest": true,
+        "new": [
+            "Compartilhe e receba receitas completas diretamente do app"
         ],
         "knownIssues": [
             "None"
