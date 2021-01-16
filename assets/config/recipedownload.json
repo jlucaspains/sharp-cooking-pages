@@ -199,14 +199,31 @@
             "//h1"
         ],
         "imageXPath": [
-            "//div[@class=\"first-image-wrapper\"]/img"
+            "//div[@class=\"recipe-container\"]/link[@itemprop=\"image\"]"
         ],
-        "imageAttribute": "src",
+        "imageAttribute": "href",
         "ingredientsXPath": [
             "//ul/li[@class=\"ingredient\"]"
         ],
         "preparationXPath": [
             "//ol/li[@class=\"instruction\"]"
+        ]
+    },
+    {
+        "hostname": "recipes.anovaculinary.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//div[@id=\"poster-img-responsive\"]"
+        ],
+        "imageAttribute": "src",
+        "imageRegex": "background-image: url\\('(.*)\\);",
+        "ingredientsXPath": [
+            "//div[@class=\"recipe-data-item\"]/ul/li/p"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"recipe-data-item\"]/ul/li/div/p | //div[@class=\"recipe-data-item\"]/ul/ul/li/div/p"
         ]
     }
 ]
