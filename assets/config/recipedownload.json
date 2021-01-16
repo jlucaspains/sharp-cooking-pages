@@ -178,7 +178,7 @@
         ]
     },
     {
-        "hostname": "taste.com.au",
+        "hostname": "www.taste.com.au",
         "titleXPath": [
             "//h1"
         ],
@@ -191,22 +191,6 @@
         ],
         "preparationXPath": [
             "//ul/li/div[@class=\"recipe-method-step-content\"]"
-        ]
-    },
-    {
-        "hostname": "receitasdeminuto.com",
-        "titleXPath": [
-            "//h1"
-        ],
-        "imageXPath": [
-            "//div[@class=\"recipe-container\"]/link[@itemprop=\"image\"]"
-        ],
-        "imageAttribute": "href",
-        "ingredientsXPath": [
-            "//ul/li[@class=\"ingredient\"]"
-        ],
-        "preparationXPath": [
-            "//ol/li[@class=\"instruction\"]"
         ]
     },
     {
