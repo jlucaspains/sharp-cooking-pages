@@ -215,10 +215,10 @@
             "//h1"
         ],
         "imageXPath": [
-            "//div[@id=\"poster-img-responsive\"]"
+            "//script[@type=\"application/ld+json\"]"
         ],
-        "imageAttribute": "style",
-        "imageRegex": "background-image: url\\('(.*)\\);",
+        "imageAttribute": "",
+        "imageRegex": "\"image\": \"(.*)\"",
         "ingredientsXPath": [
             "//div[@class=\"recipe-data-item\"]/ul/li/p"
         ],
