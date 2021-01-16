@@ -217,7 +217,7 @@
         "imageXPath": [
             "//div[@id=\"poster-img-responsive\"]"
         ],
-        "imageAttribute": "src",
+        "imageAttribute": "style",
         "imageRegex": "background-image: url\\('(.*)\\);",
         "ingredientsXPath": [
             "//div[@class=\"recipe-data-item\"]/ul/li/p"
