@@ -105,7 +105,7 @@ In iOS, go to Settings > Display & Brightness > Appearance > Dark
 ## Sorting recipes
 In the recipe list page you have the option to sort them by Title, Recently created or updated, and Rating. This allows you to see your recipes in whichever order you prefer.
 
-![Android sort recipe](/assets/images/android_newrecipe.png){:class="doc-img"}
+![Android sort recipe](/assets/images/android_sort.png){:class="doc-img"}
 
 ## Keeping screen on
 There is nothing more annoying than the phone screen shutting down while you are cooking and have something on your hands. You can now disable the screen lock right from the recipe display.
