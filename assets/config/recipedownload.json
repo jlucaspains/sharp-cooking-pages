@@ -178,22 +178,6 @@
         ]
     },
     {
-        "hostname": "www.taste.com.au",
-        "titleXPath": [
-            "//h1"
-        ],
-        "imageXPath": [
-            "//meta[@property=\"og:image\"]"
-        ],
-        "imageAttribute": "content",
-        "ingredientsXPath": [
-            "//ul/li/div[contains(@class, \"ingredient-description\")]"
-        ],
-        "preparationXPath": [
-            "//ul/li/div[@class=\"recipe-method-step-content\"]"
-        ]
-    },
-    {
         "hostname": "recipes.anovaculinary.com",
         "titleXPath": [
             "//h1"

@@ -65,6 +65,7 @@ In version 1.1 we introduced an option where you can import recipes from support
 * [cafedelites.com](https://cafedelites.com/)
 * [www.delicious.com.au](https://www.delicious.com.au/)
 * [taste.com.au](https://taste.com.au/)
+* [recipes.anovaculinary.com](https://recipes.anovaculinary.com/)
 
 Don't see your favorite website on this list? Email [Our Support Team](mailto:lpains.wp@gmail.com) to request support for it.
 
@@ -72,7 +73,7 @@ The feature is very simple, you provide the URL of a recipe from any of the supp
 
 ![Android start time](/assets/images/android_import.gif){:class="doc-img"}
 
-### Sharing whole recipes
+## Sharing whole recipes
 
 The basic share functionality only shares the recipe text. While that is nicely formatted, it does not allow for easily importing the recipe directly into Sharp Cooking. Now, you can finally share recipes including ingredients, Step-by-step instructions, and picture. Sharing is as easy as it gets, from the recipe display, select the ellipsis button and select share recipe as file option. Depending on the platform, you may have different options to share. Regardless of how you choose to share, as long as the recipient can receive a .zip file and they have Sharp Cooking installed, it will work. We do, however, have a few suggestions below.
 
@@ -93,6 +94,23 @@ If you ever wanted to duplicate a recipe and make modifications to the copy, you
 
 ### Sharing your whole recipe book (tip)
 Backing up your recipes or sharing them use the same approach in Sharp Cooking. This gives you the ability to take a backup in Settings page and send the generated file to a friend or family (because nobody would share cooking secrets with anyone else, right?).
+
+## Dark Mode
+Go easy on your eyes with Dark Mode. Enable it in your device's settings and the app will respect it right away. For best results, please restart the app after changing the device's theme.
+
+In Android, go to Settings > Display > Dark Theme.
+
+In iOS, go to Settings > Display & Brightness > Appearance > Dark
+
+## Sorting recipes
+In the recipe list page you have the option to sort them by Title, Recently created or updated, and Rating. This allows you to see your recipes in whichever order you prefer.
+
+![Android sort recipe](/assets/images/android_newrecipe.png){:class="doc-img"}
+
+## Keeping screen on
+There is nothing more annoying than the phone screen shutting down while you are cooking and have something on your hands. You can now disable the screen lock right from the recipe display.
+
+![Android keep screen on](/assets/images/android_keepscreenon.png){:class="doc-img"}
 
 # FAQ
 ## Can I import recipes from websites?

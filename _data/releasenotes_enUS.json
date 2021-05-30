@@ -65,9 +65,25 @@
     },
     {
         "version": "1.4",
-        "latest": true,
+        "latest": false,
         "new": [
             "Share and receive whole recipes from/to the app"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.5",
+        "latest": true,
+        "new": [
+            "New option to prevent the screen from locking",
+            "Fixed translate sort by page title",
+            "Fixed sorting features and descriptions in the main page",
+            "Dark mode",
+            "Default rating to 3 for new recipes",
+            "Prevent data load on the main page when it is not necessary",
+            "Replaced date picker in pick start time option"
         ],
         "knownIssues": [
             "None"

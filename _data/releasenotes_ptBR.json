@@ -72,5 +72,20 @@
         "knownIssues": [
             "None"
         ]
+    },
+    {
+        "version": "1.5",
+        "latest": true,
+        "new": [
+            "Nova opção para evitar que a tela bloqueie",
+            "Recursos de classificação corrigidos e descrições na página principal",
+            "Modo escuro",
+            "Padrão de 3 estrelas para novas receitas",
+            "Impedir o carregamento de dados na página principal quando não for necessário",
+            "Substituído o seletor de data na opção de escolha de hora de início"
+        ],
+        "knownIssues": [
+            "None"
+        ]
     }
 ]
