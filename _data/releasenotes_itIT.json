@@ -1,0 +1,14 @@
+[
+    {
+        "version": "1.6",
+        "latest": true,
+        "new": [
+            "Risolto il problema per cui i ripristini di backup non riuscivano in Android",
+            "Aggiorna le ricette dopo il ripristino del backup",
+            "Traduzione dell'app per francese, italiano, tedesco e spagnolo"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    }
+]

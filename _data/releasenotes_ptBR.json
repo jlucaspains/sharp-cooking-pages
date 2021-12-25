@@ -75,7 +75,7 @@
     },
     {
         "version": "1.5",
-        "latest": true,
+        "latest": false,
         "new": [
             "Nova opção para evitar que a tela bloqueie",
             "Recursos de classificação corrigidos e descrições na página principal",
@@ -83,6 +83,18 @@
             "Padrão de 3 estrelas para novas receitas",
             "Impedir o carregamento de dados na página principal quando não for necessário",
             "Substituído o seletor de data na opção de escolha de hora de início"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    },
+    {
+        "version": "1.6",
+        "latest": true,
+        "new": [
+            "Corrigido o problema em que as restaurações de backup falhavam no Android",
+            "Atualiza as receitas após a restauração do backup",
+            "Tradução do aplicativo para francês, italiano, alemão e espanhol"
         ],
         "knownIssues": [
             "None"

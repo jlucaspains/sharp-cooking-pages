@@ -123,7 +123,7 @@ No. This is a feature being considered for a future release.
 Yes! This feature was introduced in version 1.4.
 
 ## What languages is Sharp Cooking translated into?
-At the moment, English and Brazilian Portuguese. Expected translations for the near future are: Spanish, French, and Italian.
+As of version 1.6 the languages supported are English, Brazilian Portuguese, Spanish, French, German, and Italian. Note that all translations except English and Brazilian Portuguese are machine translations meaning they may have small inaccurracies. Please contact [Our Support Team](mailto:lpains.wp@gmail.com) for adjustments if you notice anything incorrect.
 
 ## What are the features to be released in the next releases?
 The [Changelog page](/changelog) has a road map list with items being considered for future releases.

@@ -1,0 +1,14 @@
+[
+    {
+        "version": "1.6",
+        "latest": true,
+        "new": [
+            "Problem behoben, bei dem Backup-Wiederherstellungen in Android fehlgeschlagen sind",
+            "Rezepte nach Backup-Wiederherstellung aktualisieren",
+            "App-Übersetzung für Französisch, Italienisch, Deutsch und Spanisch"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    }
+]

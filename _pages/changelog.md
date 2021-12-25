@@ -24,11 +24,10 @@ The Sharp Cooking team makes frequent updates to keep up with the latest iOS and
 ## **Roadmap**
 > Below features are currently being evaluated or under development. The development team cannot guarantee that all features listed here will be delivered in the next version.
 
-- (Released in v1.3) show default recipes on first install
-- (Released in v1.3) save last multiplier used for each recipe
-- (Released in v1.4) share recipe with image
 - (Released in v1.5) sorting options
 - (Released in v1.5) dark mode
+- (In progress - v1.6) Translation to Italian, German, Spanish, and French
+- (In Progress - future) Focus mode
 - (Not Started) Picture gallery in a recipe
 - (Not Started) Automatic storage management of app images
 - (Not Started) Unit of measure conversions
