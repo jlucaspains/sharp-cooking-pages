@@ -1,0 +1,14 @@
+[
+    {
+        "version": "1.6",
+        "latest": true,
+        "new": [
+            "Correction d'un problème où les restaurations de sauvegarde échouaient dans Android",
+            "Actualiser les recettes après la restauration de la sauvegarde",
+            "Traduction d'applications pour le français, l'italien, l'allemand et l'espagnol"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    }
+]

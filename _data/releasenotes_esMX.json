@@ -1,0 +1,14 @@
+[
+    {
+        "version": "1.6",
+        "latest": true,
+        "new": [
+            "Se solucionó el problema por el cual las restauraciones de respaldo fallaban en Android",
+            "Actualizar recetas después de restaurar la copia de seguridad",
+            "Traducción de aplicaciones para francés, italiano, alemán y español"
+        ],
+        "knownIssues": [
+            "None"
+        ]
+    }
+]
