@@ -193,5 +193,21 @@
         "preparationXPath": [
             "//div[@class=\"recipe-data-item\"]/ul/li/div/p | //div[@class=\"recipe-data-item\"]/ul/ul/li/div/p"
         ]
+    },
+    {
+        "hostname": "www.bowlofdelicious.com",
+        "titleXPath": [
+            "//h1"
+        ],
+        "imageXPath": [
+            "//meta[@property=\"og:image\"]"
+        ],
+        "imageAttribute": "content",
+        "ingredientsXPath": [
+            "//li[@class=\"wprm-recipe-ingredient\"]"
+        ],
+        "preparationXPath": [
+            "//div[@class=\"wprm-recipe-instruction-text\"]"
+        ]
     }
 ]
