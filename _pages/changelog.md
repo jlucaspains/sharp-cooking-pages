@@ -24,10 +24,12 @@ The Sharp Cooking team makes frequent updates to keep up with the latest iOS and
 ## **Roadmap**
 > Below features are currently being evaluated or under development. The development team cannot guarantee that all features listed here will be delivered in the next version.
 
-- (Released in v1.5) sorting options
-- (Released in v1.5) dark mode
-- (In progress - v1.6) Translation to Italian, German, Spanish, and French
-- (In Progress - future) Focus mode
+- (In Progress - Preview in v1.7) Focus mode
+  - Remove all distractions and focus on the recipe
+  - Voice guidance
+  - Step timers
+- (In Progress - v1.7) Recipe Printing
+- (In Progress - v1.7) Recipe image display with pinch to zoom
 - (Not Started) Picture gallery in a recipe
 - (Not Started) Automatic storage management of app images
 - (Not Started) Unit of measure conversions
