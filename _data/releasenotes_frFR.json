@@ -8,6 +8,23 @@
             "Traduction d'applications pour le français, l'italien, l'allemand et l'espagnol"
         ],
         "knownIssues": [
+            "Les URL ne s'ouvriront pas à partir des paramètres"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "L'avant-première du mode focus",
+            "Page pour les avant-première",
+            "Améliorations du mode sombre pour Android",
+            "Utilisez la barre de recherche au lieu de la recherche Shell pour Android",
+            "Impression de recettes",
+            "Ouverture d'URL fixe dans les paramètres",
+            "Utilisez GlideX pour un chargement d'image amélioré",
+            "Aperçu de l'image de la recette dans la page de détail"
+        ],
+        "knownIssues": [
             "None"
         ]
     }

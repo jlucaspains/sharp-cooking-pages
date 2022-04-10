@@ -98,6 +98,23 @@
             "App translation for French, Italian, German, and Spanish"
         ],
         "knownIssues": [
+            "URLs won't open from Settings"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "Focus mode preview",
+            "Page for previews",
+            "Better handling of dark mode for Android",
+            "Use Search Bar instead of Shell search for Android",
+            "Recipe Printing",
+            "Fixed URL opening in Settings",
+            "Use GlideX for faster image handling",
+            "Recipe Image preview in detail page"
+        ],
+        "knownIssues": [
             "None"
         ]
     }

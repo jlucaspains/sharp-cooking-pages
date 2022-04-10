@@ -66,6 +66,7 @@ In version 1.1 we introduced an option where you can import recipes from support
 * [www.delicious.com.au](https://www.delicious.com.au/)
 * [taste.com.au](https://taste.com.au/)
 * [recipes.anovaculinary.com](https://recipes.anovaculinary.com/)
+* [www.bowlofdelicious.com](https://www.bowlofdelicious.com)
 
 Don't see your favorite website on this list? Email [Our Support Team](mailto:lpains.wp@gmail.com) to request support for it.
 

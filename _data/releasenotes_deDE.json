@@ -8,6 +8,23 @@
             "App-Übersetzung für Französisch, Italienisch, Deutsch und Spanisch"
         ],
         "knownIssues": [
+            "URLs werden nicht über die Einstellungen geöffnet"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "Vorschau im Fokusmodus",
+            "Seite für Vorschauen",
+            "Verbesserungen für den dunklen Modus auf Android",
+            "Verwenden Sie die Suchleiste anstelle der Shell-Suche für Android",
+            "Rezeptdruck",
+            "URL-Öffnung in den Einstellungen behoben",
+            "Verwenden Sie GlideX für eine schnellere Bildbearbeitung",
+            "Rezept-Bildvorschau auf der Detailseite"
+        ],
+        "knownIssues": [
             "None"
         ]
     }

@@ -97,6 +97,23 @@
             "Tradução do aplicativo para francês, italiano, alemão e espanhol"
         ],
         "knownIssues": [
+            "URLs não abrem na pagina de configurações"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "Amostra do modo de foco",
+            "Página para controle de amostras",
+            "Melhor tratamento do modo escuro para Android",
+            "Use a barra de pesquisa em vez da pesquisa do Shell para Android",
+            "Impressão de receita",
+            "Abertura de URL fixa em Configurações",
+            "Use GlideX para visualização de imagem mais rápido",
+            "Pré-visualização da imagem da receita na página de detalhes"
+        ],
+        "knownIssues": [
             "None"
         ]
     }

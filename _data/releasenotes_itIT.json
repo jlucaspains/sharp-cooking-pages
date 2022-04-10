@@ -8,6 +8,23 @@
             "Traduzione dell'app per francese, italiano, tedesco e spagnolo"
         ],
         "knownIssues": [
+            "Gli URL non si apriranno dalle Impostazioni"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "Anteprima in modalità messa a fuoco",
+            "Pagina per le anteprime",
+            "Miglioramenti per la modalità oscura su Android",
+            "Usa la barra di ricerca invece della ricerca Shell per Android",
+            "Stampa di ricette",
+            "Corretta l'apertura dell'URL in Impostazioni",
+            "Usa GlideX per un caricamento più veloce delle immagini",
+            "Visualizzazione dell'immagine della ricetta nella pagina dei dettagli"
+        ],
+        "knownIssues": [
             "None"
         ]
     }

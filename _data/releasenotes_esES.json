@@ -8,6 +8,23 @@
             "Traducción de aplicaciones para francés, italiano, alemán y español"
         ],
         "knownIssues": [
+            "Las URL no se abren desde Configuración"
+        ]
+    },
+    {
+        "version": "1.7",
+        "latest": false,
+        "new": [
+            "Vista previa del modo de enfoque",
+            "Página para vistas previas",
+            "Mejoras para el modo oscuro en Android",
+            "Use la barra de búsqueda en lugar de la búsqueda de Shell para Android",
+            "Impresión de recetas",
+            "Apertura de URL fija en Configuración",
+            "Use GlideX para un manejo de imágenes más rápido",
+            "Vista previa de la imagen de la receta en la página de detalles"
+        ],
+        "knownIssues": [
             "None"
         ]
     }
