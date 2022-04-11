@@ -33,6 +33,18 @@ To start cooking later but know exactly when it will be done later, use the star
 
 ![Android start time](/assets/images/android_starttime.gif){:class="doc-img"}
 
+### Printing a recipe
+Sometimes you just want to have that recipe in a pice of good old paper. You can now print your recipes directly from Sharp Cooking app.
+
+![Android Printing a recipe](/assets/images/android_printrecipe.gif){:class="doc-img"}
+
+### Focus mode (preview)
+The focus mode allows you to focus on the recipe. It provides you bigger font for easier reading, narrates the recipe, and keeps track of time with built-in notifications to remind you the next step is due. 
+
+First, enable focus mode in the Settings > Preview Features > Focus Mode
+
+![Android Printing a recipe](/assets/images/android_focusmode.gif){:class="doc-img"}
+
 ## Settings
 
 ![Android settings](/assets/images/android_settings.png){:class="doc-img"}
